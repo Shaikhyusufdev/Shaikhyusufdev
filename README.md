@@ -145,19 +145,6 @@
 
 ###
 
-## <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app?user=Shaikhyusufdev&theme=transparent&border_radius=6.5" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shaikhyusufdev" alt="Shaikhyusufdev" /></a></p>
-
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerry-619/jerry-619/output/pacman-contribution-graph-dark.svg">
