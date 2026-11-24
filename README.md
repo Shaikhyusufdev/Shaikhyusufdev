@@ -19,7 +19,7 @@
 </div>
 
 ###
-<h3 align="center">I'm a Developer from mars</h3>
+<h3 align="center">I'm a Developer from 127.0.0.1</h3>
 
 <p align="center">
 
@@ -29,9 +29,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter & Python**
+- 🌱 I’m currently learning **Flutter & Python & Java**
 
 - ⚡ Hobbies **play games, Coding, Cracking, Hacking, Fucking with codes?.**
+
+- 🔥 Errors are my best compiler; my brain only works during runtime crashes.
 
 ###
 
