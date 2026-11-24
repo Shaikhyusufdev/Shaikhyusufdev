@@ -23,7 +23,7 @@
 <h3 align="center">I'm a Developer from 127.0.0.1</h3>
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="snake game" />
+  <img src="https://githubusercontent.com" alt="pacman game" />
 </p>
 
 ## 🙋‍♂️ About Me
