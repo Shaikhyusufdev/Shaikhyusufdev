@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://githubusercontent.com" width="30px"> I'm Yusuf.</h1>
+
 <div align="center">
-  <img height="200" src="https://githubusercontent.com" style="display:none;" />
-  <img height="200" src="https://githubusercontent.com" />
+  <img height="200" src="https://githubusercontent.com" alt="coding gif" />
 </div>
 
 ###
@@ -19,6 +19,7 @@
 </div>
 
 ###
+
 <h3 align="center">I'm a Developer from 127.0.0.1</h3>
 
 <p align="center">
@@ -27,10 +28,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter & Python & Java**
-
-- ⚡ Hobbies **play games, Coding, Cracking, Hacking, Fucking with codes?.**
-
+- 🌱 I’m currently learning **Flutter, Python & Java**
+- ⚡ Hobbies: **Playing games, Coding, Cracking, Hacking, Fucking with codes.**
 - 🔥 **Errors are my best compiler; my brain only works during runtime crashes.**
 
 ###
