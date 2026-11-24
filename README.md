@@ -140,7 +140,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://s3-noi.aces3.ai/noxhub/NOXFLIXLOGO/20261124-a78ff15e4e58.png" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
