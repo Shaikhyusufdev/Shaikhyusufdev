@@ -6,7 +6,7 @@
 </h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNlYW00d2xxd3dnZzljMDV0eHFtOGF2ZWNzaDU3Njg0bnlsMWNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CGHy1hQ1WPKDCz5Xk6/giphy.gif" />
 </div>
 
 <p align="center">
